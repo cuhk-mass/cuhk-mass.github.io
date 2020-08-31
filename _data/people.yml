@@ -35,6 +35,24 @@ lwchow:
     role: grad
     bio: PhD since 2020
 
+cjli:
+    display_name: "Changji Li"
+    webpage: "http://www.cse.cuhk.edu.hk/~cjli/"
+    role: grad
+    bio: MPhil since 2019
+    
+xjpeng:
+    display_name: "Xiangjun Peng"
+    webpage: "http://www.cse.cuhk.edu.hk/~xjpeng/"
+    role: grad
+    bio: MPhil since 2020
+
+chjin:
+    display_name: "Chenhan Jin"
+    webpage: "http://www.cse.cuhk.edu.hk/~chjin/"
+    role: grad
+    bio: MPhil since 2020
+
 alum-a:
     display_name: "Alum A"
     role: alum
