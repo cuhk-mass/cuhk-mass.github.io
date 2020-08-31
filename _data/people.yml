@@ -1,9 +1,8 @@
 mcyang:
     display_name: "Prof. Ming-Chang Yang"
     webpage: "http://www.cse.cuhk.edu.hk/~mcyang/"
-    github: profx
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/mcyang.jpg
     bio: Principal Investigator
 
 grad-a:
