@@ -1,29 +1,10 @@
-profx:
+mcyang:
     display_name: "Prof. Ming-Chang Yang"
     webpage: "http://www.cse.cuhk.edu.hk/~mcyang/"
     github: profx
     role: faculty
     image: /img/people/prof-x.png
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+    bio: Principal Investigator
 
 grad-a:
     display_name: "Grad A"
