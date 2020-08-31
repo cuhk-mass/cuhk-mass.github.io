@@ -5,41 +5,35 @@ mcyang:
     image: /img/people/mcyang.jpg
     bio: Principal Investigator
 
-grad-a:
-    display_name: "Grad A"
+yhliang:
+    display_name: "Yuhong Liang"
+    webpage: "http://www.cse.cuhk.edu.hk/~yhliang/"
     role: grad
+    bio: PhD since 2018
+    
+tyyang:
+    display_name: "Tsun-Yu Yang"
+    webpage: "http://www.cse.cuhk.edu.hk/~tyyang/"
+    role: grad
+    bio: PhD since 2019 (HKPFS)
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+glyao:
+    display_name: "Guangliang Yao"
+    webpage: "http://www.cse.cuhk.edu.hk/~glyao/"
     role: grad
+    bio: PhD since 2019
 
-grad-c:
-    display_name: "Grad C"
+cw:
+    display_name: "Chao Wang"
+    webpage: "http://www.cse.cuhk.edu.hk/~cwang/"
     role: grad
+    bio: PhD since 2020
 
-grad-d:
-    display_name: "Grad D"
+lwchow:
+    display_name: "Lok Yin CHOW"
+    webpage: "http://www.cse.cuhk.edu.hk/~lwchow/"
     role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
+    bio: PhD since 2020
 
 alum-a:
     display_name: "Alum A"
