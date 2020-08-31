@@ -1,19 +1,6 @@
-
-prof-a:
-    display_name: "Prof A"
-    role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
 profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    display_name: "Prof. Ming-Chang Yang"
+    webpage: "http://www.cse.cuhk.edu.hk/~mcyang/"
     github: profx
     role: faculty
     image: /img/people/prof-x.png
