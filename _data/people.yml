@@ -30,7 +30,7 @@ cw:
     bio: PhD since 2020
 
 lwchow:
-    display_name: "Lok Yin CHOW"
+    display_name: "Lok Yin Chow"
     webpage: "http://www.cse.cuhk.edu.hk/~lwchow/"
     role: grad
     bio: PhD since 2020
@@ -56,46 +56,46 @@ chjin:
 yfhou:
     display_name: "Yifan Hou"
     role: alum
-    bio: "MPhil (2018-2020). First Job: PhD at ETH Zurich."
+    bio: "MPhil (2018-2020). First Placement: PhD at ETH Zurich."
 
 jliu:
     display_name: "Jie Liu"
     role: alum
-    bio: "MPhil (2018-2020). First Job: PhD at University of Michigan."
+    bio: "MPhil (2018-2020). First Placement: PhD at University of Michigan."
 
 zzhong:
     display_name: "Zheng Zhong"
     role: alum
-    bio: "MPhil (2018-2020). First Job: PhD at Purdue University."
+    bio: "MPhil (2018-2020). First Placement: PhD at Purdue University."
 
     
 lychow:
     display_name: "Lok Yin CHOW"
     role: ra
-    bio: "Student Helper (2020). First Job: PhD at The Chinese University of Hong Kong."
+    bio: "Student Helper (2020). First Placement: PhD at The Chinese University of Hong Kong."
     
 tfchung:
     display_name: "Tin Fan Chung"
     role: ra
-    bio: "Student Helper (2020). First Job: Postdoc at Purdue University."
+    bio: "Student Helper (2020). First Placement: Postdoc at Purdue University."
 
 cwang:
     display_name: "Chao Wang"
     role: ra
-    bio: "Research Assistant (2020). First Job: PhD at The Chinese University of Hong Kong."
+    bio: "Research Assistant (2020). First Placement: PhD at The Chinese University of Hong Kong."
 
 
 jylin:
     display_name: "Jiaying Lin"
     role: ra
-    bio: "Research Assistant (2019). First Job: Internship at Microsoft Research Asia."
+    bio: "Research Assistant (2019). First Placement: Internship at Microsoft Research Asia."
 
 hesu:
     display_name: "Hsin-En Su"
     role: ra
-    bio: "Summer Internship (2019). First Job: Undergraduate Study at National Chiao-Tung University."
+    bio: "Summer Internship (2019). First Placement: Undergraduate Study at National Chiao-Tung University."
 
 shchen:
     display_name: "Shuo-Han Chen"
     role: ra
-    bio: "Postdoc (2018). First Job: Postdoc at Purdue University."
+    bio: "Postdoc (2018). First Placement: Postdoc at Purdue University."
